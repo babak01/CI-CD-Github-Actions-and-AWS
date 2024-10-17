@@ -96,3 +96,5 @@
     1. Select `Delete`.
     1. Enter the word `delete` and select `Delete`.
 
+By Babak V-Ghaffari
+
